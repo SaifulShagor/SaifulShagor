@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SaifulShagor
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning Back End Developing with Php Codeigniter
+- 🌱 I’m currently learning Back End Development with Php Codeigniter
